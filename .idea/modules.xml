@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/apigateway-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/apigateway-service.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/first-service.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring_msa_practice.iml" filepath="$PROJECT_DIR$/.idea/spring_msa_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/user-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/user-service.main.iml" />
     </modules>
   </component>
 </project>
